@@ -3,6 +3,8 @@
   "id": "la-camara-del-caos-2",
   "system": "dnd5e",
   "joinTheme": "default",
+  "url": "https://github.com/ChorizoPersiana/Pruebamundo",
+  "download": "",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
