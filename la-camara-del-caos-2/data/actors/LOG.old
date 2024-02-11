@@ -1,0 +1,9 @@
+2024/02/04-15:57:16.799 468c Recovering log #49
+2024/02/04-15:57:16.805 468c Delete type=0 #49
+2024/02/04-15:57:16.805 468c Delete type=3 #48
+2024/02/04-18:22:15.358 4bf4 Compacting 1@0 + 1@1 files
+2024/02/04-18:22:15.362 4bf4 Generated table #52@0: 17 keys, 34294 bytes
+2024/02/04-18:22:15.362 4bf4 Compacted 1@0 + 1@1 files => 34294 bytes
+2024/02/04-18:22:15.364 4bf4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/04-18:22:15.365 4bf4 Delete type=2 #42
+2024/02/04-18:22:15.365 4bf4 Delete type=2 #44

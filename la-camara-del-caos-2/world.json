@@ -1,0 +1,15 @@
+{
+  "title": "La cámara del caos 2",
+  "id": "la-camara-del-caos-2",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "2.2.1",
+  "lastPlayed": "Mon Feb 05 2024 22:00:55 GMT+0100 (hora estándar de Europa central)",
+  "playtime": 2837,
+  "background": "Archivos/Camara%20del%20Caos/fondo.jpg"
+}
